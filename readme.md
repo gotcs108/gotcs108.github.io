@@ -1,6 +1,9 @@
-buy domain
-set domain
-upload on github
-upload menu
-uploda image and link it
+create restoseoul github & upload on github
+
+buy domain on porkbun
+
+set domain to point to github
+
 github project setting to use the domain
+
+upload menu & link it
