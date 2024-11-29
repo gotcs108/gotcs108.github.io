@@ -25,6 +25,9 @@ body {
 .flex {
     display: flex;
 }
+.flex-wrap {
+    flex-wrap: wrap;
+}
 .flex-align-center {
     display: flex;
     align-items: center;
@@ -54,7 +57,13 @@ body {
 .padding-60 {
     padding: 60px;
 }
+.padding-10 {
+    padding: 10px;
+}
 .logo {
     font-size: 64px;
     margin: 0;
+}
+.w-100 {
+    width: 100%;
 }
