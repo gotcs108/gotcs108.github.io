@@ -1,4 +1,4 @@
-create restoseoul github & upload on github
+create restoseoul github & upload on github on a repo called  "restoseoul.github.io" (whatever the github user name is. in this case it's restoseoul)
 
 buy domain on porkbun
 
